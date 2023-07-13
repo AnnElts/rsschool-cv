@@ -1,4 +1,5 @@
-# **Eltsova** Ann
+![Personal photo Eltsova Anna](img\main_photo.png)
+# **Eltsova** Anna
 
 ## My goal
 
